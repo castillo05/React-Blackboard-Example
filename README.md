@@ -1,1 +1,1 @@
-A simple Blackborad Component writes in ReactJS
+A simple Blackborad Component written in ReactJS
